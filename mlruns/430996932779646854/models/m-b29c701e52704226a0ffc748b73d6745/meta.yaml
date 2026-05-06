@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/cbaez/ml-pipeline/mlruns/430996932779646854/models/m-b29c701e52704226a0ffc748b73d6745/artifacts
+creation_timestamp: 1778037430684
+experiment_id: '430996932779646854'
+last_updated_timestamp: 1778037436733
+model_id: m-b29c701e52704226a0ffc748b73d6745
+model_type: null
+name: model
+source_run_id: f94e5c90d99e4610a89c82625f62af44
+status: 2
+status_message: null

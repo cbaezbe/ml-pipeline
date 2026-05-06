@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/cbaez/ml-pipeline/mlruns/430996932779646854
+creation_time: 1778037429797
+experiment_id: '430996932779646854'
+last_update_time: 1778037429797
+lifecycle_stage: active
+name: titanic_experiment
+trace_location: null
+workspace: default
